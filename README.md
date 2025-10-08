@@ -3,3 +3,6 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 THIS IS AN ADDITIONAL LINE ORIGINALLY CREATED IN DavidRivasPhD/demo-repository 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg0Mjc1MTQxOF19
+-->
